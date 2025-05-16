@@ -39,7 +39,6 @@ printf("%d is the smallest number.",c);
 }
 }
 ``` 
-```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/c63fc013-7f39-4b81-93af-4c8b669f4941)
